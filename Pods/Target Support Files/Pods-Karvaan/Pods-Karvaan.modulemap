@@ -1,0 +1,6 @@
+framework module Pods_Karvaan {
+  umbrella header "Pods-Karvaan-umbrella.h"
+
+  export *
+  module * { export * }
+}
